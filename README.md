@@ -1,20 +1,14 @@
-# Topic Modeling
-This is a demonstration of topic modeling.
+# Topic Modelling
+This is a demonstration of topic modelling.
 
 ## Pre-requisites:
 - Python3 installed
 - `pip` installed
 
-## Steps to setup the Project:
-- `git clone` this project or download zip and extract it
-- cd into the project directory and run:
-
-    `pip install -r requirements.txt`
-
 ## Usage:
 main.py [-h] path
 
-Performs the TOPIC MODELNG
+Performs the TOPIC MODELLNG
 
 positional arguments:
   path        The path to the directory where files are stored
