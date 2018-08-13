@@ -1,4 +1,4 @@
-# Named Entity Recognition
+# Topic Modeling
 This is a demonstration of topic modeling.
 
 ## Pre-requisites:
