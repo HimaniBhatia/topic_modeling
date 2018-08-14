@@ -19,4 +19,5 @@ optional arguments:
 Blogs folder contains text files to be clustered. To verify the end results,i.e to check if files have been clustered properly, the file names have been pre-labeled.
 
 ## Output:
-The output will be clustered in the `output` sub-directory placed in the `path` where all the files are stored
+The output will be clustered in the `output` sub-directory placed in the `path` where all the files are stored.
+A text file containing all topics is also generated.
