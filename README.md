@@ -16,7 +16,7 @@ positional arguments:
 optional arguments:
   -h, --help  show this help message and exit
 ## Dataset
-Blogs folder contains text files to be clusterd. For verification, the files have been labeled.
+Blogs folder contains text files to be clustered. To verify the end results,i.e to check if files have been clustered properly, the file names have been pre-labeled.
 
 ## Output:
 The output will be clustered in the `output` sub-directory placed in the `path` where all the files are stored
